@@ -1,0 +1,33 @@
+body{
+     background-color: cornsilk;
+}
+*{
+  margin:0.03;
+  padding:0.03;
+}
+.myclass {
+       float: right;
+       width: 60%;
+       margin-left: 20%;
+   }
+   .myclass1 {
+       float: right;
+       width: 50%;
+       margin-left: 20%;
+   }
+   .myclass2 {
+       float: right;
+       width: 60%;
+       margin-left: 20%;
+   }
+   .myclass3 {
+       float: right;
+       width: 60%;
+       margin-left: 20%;
+  }
+  h5{
+  color: red;
+}
+j{
+  color: red;
+}
